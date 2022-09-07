@@ -1,0 +1,14 @@
+.centrar{
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: center;
+ 	text-align: center;
+ }
+ .logoInstagram{
+	cursor: pointer;
+	padding: 2rem;
+	transition: all 1s;
+}
+.logoInstagram:hover{
+	transform: translateY(-10px);
+}

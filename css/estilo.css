@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap");
+.letraTit {
+  display: flex;
+  flex-direction: row;
+  color: black;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+  text-decoration: underline; }
+
+.letraTit2 {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  justify-content: center;
+  font-family: 'Cinzel', serif;
+  text-decoration: underline; }
+
+.textoMedio {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  text-align: center; }
+
+.textoMedio2 {
+  font-family: 'Oleo Script Swash Caps', cursive;
+  text-align: center;
+  color: white; }
+
+span {
+  color: red; }
+
+.bgColor {
+  background-color: lightgreen; }

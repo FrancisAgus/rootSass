@@ -30,3 +30,81 @@ span {
 
 .bgColor {
   background-color: lightgreen; }
+
+header li {
+  font-size: 1rem;
+  font-family: 'Cinzel', serif;
+  padding-left: 2rem;
+  padding-right: 2rem; }
+  header li a {
+    text-decoration: none; }
+
+.reducir {
+  transform: scale(0.7, 0.7); }
+
+.centrar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center; }
+
+.logoInstagram {
+  cursor: pointer;
+  padding: 2rem;
+  transition: all 1s; }
+
+.logoInstagram:hover {
+  transform: translateY(-10px); }
+
+.index--fondo {
+  background-image: url("../assets/img/psico-fondo.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+.fondoContacto {
+  background-image: url("../assets/img/fondo-contacto.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+.fondoLeyes {
+  background-image: url("../assets/img/fondo-leyes.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+.fondoMateriales {
+  background-image: url("../assets/img/fondo-materiales.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+.fondoNosotros {
+  background-image: url("../assets/img/fondo-nosotros.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover; }
+
+.margin {
+  margin: 2rem; }
+
+.size {
+  max-height: 490px;
+  max-width: 367px; }
+
+.m1 {
+  margin-top: 3rem;
+  margin-bottom: 3rem; }
+
+.p1 {
+  padding: 1rem; }
+
+.p2 {
+  padding: 2rem; }
+
+.p3 {
+  padding: 3rem; }
+
+.p4 {
+  padding: 4rem; }

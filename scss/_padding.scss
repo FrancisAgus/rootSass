@@ -1,0 +1,5 @@
+@for $pad from 1 through 4{
+	.p#{$pad}{
+		padding: 1rem * $pad;
+	}
+}

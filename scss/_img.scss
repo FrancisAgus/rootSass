@@ -1,0 +1,25 @@
+@mixin fondoGeneral {
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.index--fondo{
+	background-image: url("../assets/img/psico-fondo.jpg");
+	@include fondoGeneral;
+}
+.fondoContacto{
+	background-image: url("../assets/img/fondo-contacto.jpg");
+	@include fondoGeneral;}
+
+.fondoLeyes{
+	background-image: url("../assets/img/fondo-leyes.jpg");
+	@include fondoGeneral;}
+.fondoMateriales{
+	background-image: url("../assets/img/fondo-materiales.jpg");
+	@include fondoGeneral;}
+
+.fondoNosotros{
+	background-image: url("../assets/img/fondo-nosotros.jpg");
+	@include fondoGeneral;}
+

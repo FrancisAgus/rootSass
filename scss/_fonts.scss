@@ -23,6 +23,7 @@ $fuentes: (
 	justify-content: map-get($fuentes, justificado);
 	@extend .letraTit2;
 	color: white;
+	font-family: 'Cinzel', serif;
 }
 .textoMedio{
  	font-family: 'Oleo Script Swash Caps', cursive;

@@ -3,18 +3,16 @@
 .letraTit {
   display: flex;
   flex-direction: row;
-  color: black;
   justify-content: center;
+  color: black;
   font-family: 'Cinzel', serif;
   text-decoration: underline; }
 
 .letraTit2 {
   display: flex;
   flex-direction: row;
-  color: white;
   justify-content: center;
-  font-family: 'Cinzel', serif;
-  text-decoration: underline; }
+  color: white; }
 
 .textoMedio {
   font-family: 'Oleo Script Swash Caps', cursive;

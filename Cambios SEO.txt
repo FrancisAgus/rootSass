@@ -1,0 +1,10 @@
+SASS 2
+1) A mi entrega anterior agregué un map-get (en el partial _fonts) que fue lo único que no había utilizado para la entrega SASS 1
+2) Sobre el @extend no se me ocurrió bien como usarlo en base a mi HTML así que lo usé también en _fonts para pisar la clase "color" 
+y cambiar el color de la letra
+
+SEO
+1) La etiqueta <title> la había modificado desde la primer entrega, así que eso está igual.
+2) Agregué y edité las keywords y las descriptions de las etiquetas meta de todos los HTML
+3) Agregué a todos los HTML un h1, en el caso de la page "Leyes Útiles" agregué un nuevo título junto a un parrafo Lorem
+para darle mejor forma.

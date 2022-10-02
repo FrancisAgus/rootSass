@@ -5,18 +5,20 @@
 }
 
 .index--fondo{
-	background-image: url("../assets/img/psico-fondo.jpg");
+	background-image: url("../assets/img/psico-fondo.png");
 	@include fondoGeneral;
 }
 .fondoContacto{
-	background-image: url("../assets/img/fondo-contacto.jpg");
+	background-image: url("../assets/img/fondo-contacto.png");
 	@include fondoGeneral;}
 
 .fondoLeyes{
-	background-image: url("../assets/img/fondo-leyes.jpg");
-	@include fondoGeneral;}
+	background-image: url("../assets/img/fondo-leyes.png");
+	@include fondoGeneral;
+	background-color: grey;}
+
 .fondoMateriales{
-	background-image: url("../assets/img/fondo-materiales.jpg");
+	background-image: url("../assets/img/fondo-materiales.png");
 	@include fondoGeneral;}
 
 .fondoNosotros{

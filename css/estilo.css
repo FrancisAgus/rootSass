@@ -25,7 +25,7 @@
   color: white; }
 
 span {
-  color: red; }
+  color: darkviolet; }
 
 .bgColor {
   background-color: lightgreen; }
@@ -56,25 +56,26 @@ header li {
   transform: translateY(-10px); }
 
 .index--fondo {
-  background-image: url("../assets/img/psico-fondo.jpg");
+  background-image: url("../assets/img/psico-fondo.png");
   background-attachment: fixed;
   background-position: center;
   background-size: cover; }
 
 .fondoContacto {
-  background-image: url("../assets/img/fondo-contacto.jpg");
+  background-image: url("../assets/img/fondo-contacto.png");
   background-attachment: fixed;
   background-position: center;
   background-size: cover; }
 
 .fondoLeyes {
-  background-image: url("../assets/img/fondo-leyes.jpg");
+  background-image: url("../assets/img/fondo-leyes.png");
   background-attachment: fixed;
   background-position: center;
-  background-size: cover; }
+  background-size: cover;
+  background-color: grey; }
 
 .fondoMateriales {
-  background-image: url("../assets/img/fondo-materiales.jpg");
+  background-image: url("../assets/img/fondo-materiales.png");
   background-attachment: fixed;
   background-position: center;
   background-size: cover; }
